@@ -1,5 +1,3 @@
-// client id:       24f7cee526b8428196a25cbb7ce2179e
-// client secret:   fe8b4df726f1430c83b04b49bd83cc8d
 
 var redirect_uri = "http://127.0.0.1:5501/index.html";
  
