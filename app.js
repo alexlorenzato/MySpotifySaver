@@ -6,7 +6,7 @@ var redirect_uri = "http://127.0.0.1:5501/index.html";
 
 var client_id = ""; 
 var client_secret = "";
-
+/*
 const AUTHORIZE = "https://accounts.spotify.com/authorize"
 
 
@@ -69,7 +69,7 @@ function requestAuthorization(){
     url += "&scope=user-read-private user-read-email user-modify-playback-state user-read-playback-position user-library-read streaming user-read-playback-state user-read-recently-played playlist-read-private";
     window.location.href = url; // Show Spotify's authorization screen
 }
-
+*/
 function funzione(){
     console.log("funziono")
     alert("stocazzo")
